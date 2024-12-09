@@ -1,0 +1,4 @@
+[core]
+    remote = dvclocal
+['remote "dvclocal"']
+    url = C:\Users\Param\AppData\Local\Temp
