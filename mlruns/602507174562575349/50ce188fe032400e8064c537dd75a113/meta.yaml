@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/602507174562575349/50ce188fe032400e8064c537dd75a113/artifacts
+end_time: 1733119909353
+entry_point_name: ''
+experiment_id: '602507174562575349'
+lifecycle_stage: active
+run_id: 50ce188fe032400e8064c537dd75a113
+run_name: KNN_ADASYSN_TFIDF_Trigrams
+run_uuid: 50ce188fe032400e8064c537dd75a113
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733119892659
+status: 3
+tags: []
+user_id: Param

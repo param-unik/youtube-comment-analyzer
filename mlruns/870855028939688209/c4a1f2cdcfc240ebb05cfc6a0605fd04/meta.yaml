@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/870855028939688209/c4a1f2cdcfc240ebb05cfc6a0605fd04/artifacts
+end_time: 1733066298142
+entry_point_name: ''
+experiment_id: '870855028939688209'
+lifecycle_stage: active
+run_id: c4a1f2cdcfc240ebb05cfc6a0605fd04
+run_name: TFIDF_Bigrams_max_features_2000
+run_uuid: c4a1f2cdcfc240ebb05cfc6a0605fd04
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733066289978
+status: 3
+tags: []
+user_id: Param

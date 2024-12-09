@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Data-Science/CampusX/Projects/youtube-comment-analyzer/notebooks/mlruns/0/dd25df9e091749e380a1bef735db2a6e/artifacts
+end_time: 1732875410394
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dd25df9e091749e380a1bef735db2a6e
+run_name: nebulous-colt-97
+run_uuid: dd25df9e091749e380a1bef735db2a6e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732875396892
+status: 3
+tags: []
+user_id: Param

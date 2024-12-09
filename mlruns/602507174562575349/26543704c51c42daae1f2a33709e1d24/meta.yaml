@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/602507174562575349/26543704c51c42daae1f2a33709e1d24/artifacts
+deleted_time: 1733118109443
+end_time: 1733058357340
+entry_point_name: ''
+experiment_id: '602507174562575349'
+lifecycle_stage: deleted
+run_id: 26543704c51c42daae1f2a33709e1d24
+run_name: XGBoost_SMOTE_TFIDF_Trigrams
+run_uuid: 26543704c51c42daae1f2a33709e1d24
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733058293015
+status: 3
+tags: []
+user_id: Param

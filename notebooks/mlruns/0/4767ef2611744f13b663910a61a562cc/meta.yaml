@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Data-Science/CampusX/Projects/youtube-comment-analyzer/notebooks/mlruns/0/4767ef2611744f13b663910a61a562cc/artifacts
+end_time: 1733036724022
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4767ef2611744f13b663910a61a562cc
+run_name: industrious-asp-769
+run_uuid: 4767ef2611744f13b663910a61a562cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733036687131
+status: 3
+tags: []
+user_id: Param

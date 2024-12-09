@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/311783338219898414/ed4a3977ce7245ecb671d869dee464a7/artifacts
+end_time: 1733134772478
+entry_point_name: ''
+experiment_id: '311783338219898414'
+lifecycle_stage: active
+run_id: ed4a3977ce7245ecb671d869dee464a7
+run_name: RandomForest_Baseline_TrainTestSplit
+run_uuid: ed4a3977ce7245ecb671d869dee464a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733134690872
+status: 4
+tags: []
+user_id: Param

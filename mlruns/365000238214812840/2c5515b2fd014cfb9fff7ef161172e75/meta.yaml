@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/365000238214812840/2c5515b2fd014cfb9fff7ef161172e75/artifacts
+end_time: 1733076780366
+entry_point_name: ''
+experiment_id: '365000238214812840'
+lifecycle_stage: active
+run_id: 2c5515b2fd014cfb9fff7ef161172e75
+run_name: Trial_87_LightGBM_ADASYN_TFIDF_Trigrams
+run_uuid: 2c5515b2fd014cfb9fff7ef161172e75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733076755410
+status: 3
+tags: []
+user_id: Param

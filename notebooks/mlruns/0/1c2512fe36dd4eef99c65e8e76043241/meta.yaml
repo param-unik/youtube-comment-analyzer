@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Data-Science/CampusX/Projects/youtube-comment-analyzer/notebooks/mlruns/0/1c2512fe36dd4eef99c65e8e76043241/artifacts
+end_time: 1733030244284
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c2512fe36dd4eef99c65e8e76043241
+run_name: carefree-lark-545
+run_uuid: 1c2512fe36dd4eef99c65e8e76043241
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733030238771
+status: 3
+tags: []
+user_id: Param

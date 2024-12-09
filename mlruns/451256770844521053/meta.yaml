@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/451256770844521053
+creation_time: 1733066211466
+experiment_id: '451256770844521053'
+last_update_time: 1733066211466
+lifecycle_stage: active
+name: Exp 3 - TfIdf Trigrams with max_features

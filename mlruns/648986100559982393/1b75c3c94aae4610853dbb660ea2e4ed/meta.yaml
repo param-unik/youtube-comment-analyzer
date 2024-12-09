@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648986100559982393/1b75c3c94aae4610853dbb660ea2e4ed/artifacts
+end_time: 1733066183480
+entry_point_name: ''
+experiment_id: '648986100559982393'
+lifecycle_stage: active
+run_id: 1b75c3c94aae4610853dbb660ea2e4ed
+run_name: Imbalance_class_weights_RandomForest_TFIDF_Bigrams
+run_uuid: 1b75c3c94aae4610853dbb660ea2e4ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733066174928
+status: 3
+tags: []
+user_id: Param

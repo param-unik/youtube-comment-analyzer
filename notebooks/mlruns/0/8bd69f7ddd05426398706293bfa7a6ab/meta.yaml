@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Data-Science/CampusX/Projects/youtube-comment-analyzer/notebooks/mlruns/0/8bd69f7ddd05426398706293bfa7a6ab/artifacts
+end_time: 1732809821842
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8bd69f7ddd05426398706293bfa7a6ab
+run_name: respected-tern-919
+run_uuid: 8bd69f7ddd05426398706293bfa7a6ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732809728670
+status: 3
+tags: []
+user_id: Param

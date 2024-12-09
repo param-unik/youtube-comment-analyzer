@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Data-Science/CampusX/Projects/youtube-comment-analyzer/notebooks/mlruns/0/67ec1f99a15d4978a007cd73c1785929/artifacts
+end_time: 1732881368343
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67ec1f99a15d4978a007cd73c1785929
+run_name: bemused-ant-722
+run_uuid: 67ec1f99a15d4978a007cd73c1785929
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732881363273
+status: 3
+tags: []
+user_id: Param

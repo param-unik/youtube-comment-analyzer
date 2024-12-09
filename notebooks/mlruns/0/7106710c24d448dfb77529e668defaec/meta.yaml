@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Data-Science/CampusX/Projects/youtube-comment-analyzer/notebooks/mlruns/0/7106710c24d448dfb77529e668defaec/artifacts
+end_time: 1732810924152
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7106710c24d448dfb77529e668defaec
+run_name: intrigued-bird-337
+run_uuid: 7106710c24d448dfb77529e668defaec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732810912463
+status: 3
+tags: []
+user_id: Param

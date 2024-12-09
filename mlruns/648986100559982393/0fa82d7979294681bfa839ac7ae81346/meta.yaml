@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648986100559982393/0fa82d7979294681bfa839ac7ae81346/artifacts
+end_time: 1733066215912
+entry_point_name: ''
+experiment_id: '648986100559982393'
+lifecycle_stage: active
+run_id: 0fa82d7979294681bfa839ac7ae81346
+run_name: Imbalance_adasyn_RandomForest_TFIDF_Bigrams
+run_uuid: 0fa82d7979294681bfa839ac7ae81346
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733066206898
+status: 3
+tags: []
+user_id: Param

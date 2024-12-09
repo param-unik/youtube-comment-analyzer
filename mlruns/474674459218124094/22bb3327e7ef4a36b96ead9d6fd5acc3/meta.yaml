@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/474674459218124094/22bb3327e7ef4a36b96ead9d6fd5acc3/artifacts
+end_time: 1733065213589
+entry_point_name: ''
+experiment_id: '474674459218124094'
+lifecycle_stage: active
+run_id: 22bb3327e7ef4a36b96ead9d6fd5acc3
+run_name: BoW_(1, 2)_RandomForest
+run_uuid: 22bb3327e7ef4a36b96ead9d6fd5acc3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733065208061
+status: 3
+tags: []
+user_id: Param

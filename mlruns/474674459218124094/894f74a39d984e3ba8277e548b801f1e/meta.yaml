@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/474674459218124094/894f74a39d984e3ba8277e548b801f1e/artifacts
+end_time: 1733065240908
+entry_point_name: ''
+experiment_id: '474674459218124094'
+lifecycle_stage: active
+run_id: 894f74a39d984e3ba8277e548b801f1e
+run_name: TF-IDF_(1, 3)_RandomForest
+run_uuid: 894f74a39d984e3ba8277e548b801f1e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733065234644
+status: 3
+tags: []
+user_id: Param

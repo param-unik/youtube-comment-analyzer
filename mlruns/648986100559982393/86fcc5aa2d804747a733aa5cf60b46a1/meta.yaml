@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648986100559982393/86fcc5aa2d804747a733aa5cf60b46a1/artifacts
+end_time: 1733066254117
+entry_point_name: ''
+experiment_id: '648986100559982393'
+lifecycle_stage: active
+run_id: 86fcc5aa2d804747a733aa5cf60b46a1
+run_name: Imbalance_smote_enn_RandomForest_TFIDF_Bigrams
+run_uuid: 86fcc5aa2d804747a733aa5cf60b46a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733066248851
+status: 3
+tags: []
+user_id: Param

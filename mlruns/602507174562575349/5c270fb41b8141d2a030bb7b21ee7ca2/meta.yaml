@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/602507174562575349/5c270fb41b8141d2a030bb7b21ee7ca2/artifacts
+deleted_time: 1733118109437
+end_time: 1733072254033
+entry_point_name: ''
+experiment_id: '602507174562575349'
+lifecycle_stage: deleted
+run_id: 5c270fb41b8141d2a030bb7b21ee7ca2
+run_name: LightGBM_ADASYN_TFIDF_Bigrams
+run_uuid: 5c270fb41b8141d2a030bb7b21ee7ca2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733072243818
+status: 3
+tags: []
+user_id: Param

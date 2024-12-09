@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/474674459218124094
+creation_time: 1733065091585
+experiment_id: '474674459218124094'
+last_update_time: 1733065091585
+lifecycle_stage: active
+name: Exp 2 - BoW vs TfIdf

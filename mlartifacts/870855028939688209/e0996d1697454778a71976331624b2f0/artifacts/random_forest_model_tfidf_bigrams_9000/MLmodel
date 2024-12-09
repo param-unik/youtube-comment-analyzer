@@ -1,0 +1,20 @@
+artifact_path: random_forest_model_tfidf_bigrams_9000
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+mlflow_version: 2.18.0
+model_size_bytes: 7943063
+model_uuid: ab2ca379157f4a8fb1484d453e1baf69
+run_id: e0996d1697454778a71976331624b2f0
+utc_time_created: '2024-12-01 15:19:23.959182'

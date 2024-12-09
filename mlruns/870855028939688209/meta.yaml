@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/870855028939688209
+creation_time: 1733066260639
+experiment_id: '870855028939688209'
+last_update_time: 1733066260639
+lifecycle_stage: active
+name: Exp 3 - TfIdf Bigram with max_features

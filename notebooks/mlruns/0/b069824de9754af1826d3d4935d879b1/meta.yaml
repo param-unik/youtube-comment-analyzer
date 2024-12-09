@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Data-Science/CampusX/Projects/youtube-comment-analyzer/notebooks/mlruns/0/b069824de9754af1826d3d4935d879b1/artifacts
+end_time: 1733014165488
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b069824de9754af1826d3d4935d879b1
+run_name: abundant-calf-82
+run_uuid: b069824de9754af1826d3d4935d879b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733014159533
+status: 3
+tags: []
+user_id: Param

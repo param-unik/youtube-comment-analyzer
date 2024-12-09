@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Data-Science/CampusX/Projects/youtube-comment-analyzer/notebooks/mlruns/0/c86e2d1e97f9452895b6ab5d10713a40/artifacts
+end_time: 1732814090418
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c86e2d1e97f9452895b6ab5d10713a40
+run_name: intrigued-croc-293
+run_uuid: c86e2d1e97f9452895b6ab5d10713a40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732813992873
+status: 3
+tags: []
+user_id: Param

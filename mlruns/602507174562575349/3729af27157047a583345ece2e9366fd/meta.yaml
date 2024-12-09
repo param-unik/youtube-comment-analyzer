@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/602507174562575349/3729af27157047a583345ece2e9366fd/artifacts
+end_time: 1733119599370
+entry_point_name: ''
+experiment_id: '602507174562575349'
+lifecycle_stage: active
+run_id: 3729af27157047a583345ece2e9366fd
+run_name: RandomForest_ADASYSN_TFIDF_Trigrams
+run_uuid: 3729af27157047a583345ece2e9366fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733119577362
+status: 3
+tags: []
+user_id: Param

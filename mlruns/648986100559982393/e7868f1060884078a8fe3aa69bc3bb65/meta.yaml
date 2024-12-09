@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/648986100559982393/e7868f1060884078a8fe3aa69bc3bb65/artifacts
+end_time: 1733066196695
+entry_point_name: ''
+experiment_id: '648986100559982393'
+lifecycle_stage: active
+run_id: e7868f1060884078a8fe3aa69bc3bb65
+run_name: Imbalance_oversampling_RandomForest_TFIDF_Bigrams
+run_uuid: e7868f1060884078a8fe3aa69bc3bb65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733066187873
+status: 3
+tags: []
+user_id: Param

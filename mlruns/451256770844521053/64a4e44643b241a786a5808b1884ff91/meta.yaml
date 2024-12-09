@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451256770844521053/64a4e44643b241a786a5808b1884ff91/artifacts
+end_time: 1733066285755
+entry_point_name: ''
+experiment_id: '451256770844521053'
+lifecycle_stage: active
+run_id: 64a4e44643b241a786a5808b1884ff91
+run_name: TFIDF_Trigrams_max_features_4000
+run_uuid: 64a4e44643b241a786a5808b1884ff91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733066278538
+status: 3
+tags: []
+user_id: Param
