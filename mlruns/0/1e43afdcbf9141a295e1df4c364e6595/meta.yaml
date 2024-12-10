@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1e43afdcbf9141a295e1df4c364e6595/artifacts
+end_time: 1733848811989
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1e43afdcbf9141a295e1df4c364e6595
+run_name: upbeat-sponge-930
+run_uuid: 1e43afdcbf9141a295e1df4c364e6595
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733848811900
+status: 4
+tags: []
+user_id: Param

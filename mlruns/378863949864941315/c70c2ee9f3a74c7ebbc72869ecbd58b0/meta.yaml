@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/378863949864941315/c70c2ee9f3a74c7ebbc72869ecbd58b0/artifacts
+end_time: 1733849448075
+entry_point_name: ''
+experiment_id: '378863949864941315'
+lifecycle_stage: active
+run_id: c70c2ee9f3a74c7ebbc72869ecbd58b0
+run_name: tasteful-flea-403
+run_uuid: c70c2ee9f3a74c7ebbc72869ecbd58b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733849437281
+status: 3
+tags: []
+user_id: Param

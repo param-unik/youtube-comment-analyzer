@@ -88,6 +88,9 @@ def evaluate_model(model, X_test: np.ndarray, y_test: np.ndarray):
         report = classification_report(y_test, y_pred, output_dict=True)
         cm = confusion_matrix(y_test, y_pred)
 
+        print("Classification Report -> ")
+        print(pd.DataFrame(report))
+        
         logger.debug("Model evaluation completed")
 
         return report, cm

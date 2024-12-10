@@ -1,4 +1,4 @@
 [core]
     remote = dvcaws
 ['remote "dvcaws"']
-    url = s3://arn:aws:s3:::youtube-comment-bucket
+    url = s3://youtube-comment-bucket

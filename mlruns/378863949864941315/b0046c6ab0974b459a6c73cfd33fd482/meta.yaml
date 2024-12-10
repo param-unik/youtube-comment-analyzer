@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/378863949864941315/b0046c6ab0974b459a6c73cfd33fd482/artifacts
+end_time: 1733849341277
+entry_point_name: ''
+experiment_id: '378863949864941315'
+lifecycle_stage: active
+run_id: b0046c6ab0974b459a6c73cfd33fd482
+run_name: salty-duck-110
+run_uuid: b0046c6ab0974b459a6c73cfd33fd482
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733849330248
+status: 3
+tags: []
+user_id: Param
