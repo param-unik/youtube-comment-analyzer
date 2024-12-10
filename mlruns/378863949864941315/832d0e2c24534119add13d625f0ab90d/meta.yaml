@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/378863949864941315/832d0e2c24534119add13d625f0ab90d/artifacts
+end_time: 1733845198343
+entry_point_name: ''
+experiment_id: '378863949864941315'
+lifecycle_stage: active
+run_id: 832d0e2c24534119add13d625f0ab90d
+run_name: bouncy-kit-894
+run_uuid: 832d0e2c24534119add13d625f0ab90d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733845187509
+status: 3
+tags: []
+user_id: Param

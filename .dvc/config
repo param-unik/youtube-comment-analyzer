@@ -1,4 +1,4 @@
 [core]
-    remote = dvclocal
-['remote "dvclocal"']
-    url = C:\Users\Param\AppData\Local\Temp
+    remote = dvcaws
+['remote "dvcaws"']
+    url = s3://arn:aws:s3:::youtube-comment-bucket

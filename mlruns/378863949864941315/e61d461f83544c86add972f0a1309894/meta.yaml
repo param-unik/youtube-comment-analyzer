@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/378863949864941315/e61d461f83544c86add972f0a1309894/artifacts
+end_time: 1733845066969
+entry_point_name: ''
+experiment_id: '378863949864941315'
+lifecycle_stage: active
+run_id: e61d461f83544c86add972f0a1309894
+run_name: blushing-koi-239
+run_uuid: e61d461f83544c86add972f0a1309894
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733845053902
+status: 3
+tags: []
+user_id: Param
