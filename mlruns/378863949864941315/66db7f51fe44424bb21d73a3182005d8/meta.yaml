@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/378863949864941315/66db7f51fe44424bb21d73a3182005d8/artifacts
+end_time: 1734009244953
+entry_point_name: ''
+experiment_id: '378863949864941315'
+lifecycle_stage: active
+run_id: 66db7f51fe44424bb21d73a3182005d8
+run_name: whimsical-ape-685
+run_uuid: 66db7f51fe44424bb21d73a3182005d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734009228704
+status: 3
+tags: []
+user_id: Param

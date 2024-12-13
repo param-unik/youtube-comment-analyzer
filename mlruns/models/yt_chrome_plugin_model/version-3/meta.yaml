@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1734075946397
+current_stage: Staging
+description: ''
+last_updated_timestamp: 1734075946422
+name: yt_chrome_plugin_model
+run_id: 6cedac6295df4e0e8965bff0bf03e269
+run_link: ''
+source: mlflow-artifacts:/378863949864941315/6cedac6295df4e0e8965bff0bf03e269/artifacts/lgbm_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/378863949864941315/6cedac6295df4e0e8965bff0bf03e269/artifacts/lgbm_model
+user_id: null
+version: 3

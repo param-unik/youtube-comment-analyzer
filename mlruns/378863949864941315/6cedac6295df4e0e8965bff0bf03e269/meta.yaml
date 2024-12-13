@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/378863949864941315/6cedac6295df4e0e8965bff0bf03e269/artifacts
+end_time: 1734075942367
+entry_point_name: ''
+experiment_id: '378863949864941315'
+lifecycle_stage: active
+run_id: 6cedac6295df4e0e8965bff0bf03e269
+run_name: nimble-flea-843
+run_uuid: 6cedac6295df4e0e8965bff0bf03e269
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734075928985
+status: 3
+tags: []
+user_id: Param

@@ -4,6 +4,7 @@ import numpy as np
 import pandas as pd
 import os
 import pickle
+import joblib
 import yaml
 import logging
 import lightgbm as lgb
@@ -74,8 +75,10 @@ def apply_tfidf(train_data: pd.DataFrame, max_features: int, ngram_range: tuple)
         logger.debug(f"TF-IDF transformation complete. Train shape: {X_train_tfidf.shape}")
 
         # Save the vectorizer in the root directory
-        with open(os.path.join(get_root_directory(), "tfidf_vectorizer.pkl"), "wb") as file:
-            pickle.dump(vectorizer, file)
+        # with open(os.path.join(get_root_directory(), "tfidf_vectorizer.pkl"), "wb") as file:
+        #     pickle.dump(vectorizer, file)
+
+        joblib.dump(vectorizer, os.path.join(get_root_directory(),"tfidf_vectorizer.joblib"))
 
         logger.debug("TF-IDF applied with trigrams and data transformed")
         return X_train_tfidf, y_train
@@ -116,8 +119,10 @@ def train_lgbm(
 def save_model(model, file_path: str) -> None:
     """Save the trained model to a file."""
     try:
-        with open(file_path, "wb") as file:
-            pickle.dump(model, file)
+        # with open(file_path, "wb") as file:
+        #     pickle.dump(model, file)
+        joblib.dump(model, file_path)
+
         logger.debug("Model saved to %s", file_path)
     except Exception as e:
         logger.error("Error occurred while saving the model: %s", e)
@@ -154,7 +159,8 @@ def main():
         best_model = train_lgbm(X_train_tfidf, y_train, learning_rate, max_depth, n_estimators)
 
         # Save the trained model in the root directory
-        save_model(best_model, os.path.join(root_dir, "lgbm_model.pkl"))
+        # save_model(best_model, os.path.join(root_dir, "lgbm_model.pkl"))
+        save_model(best_model, os.path.join(root_dir, "lgbm_model.joblib"))
 
     except Exception as e:
         logger.error(

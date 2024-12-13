@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/378863949864941315/981a461d53b94cbaa0d82bfac1057a64/artifacts
+end_time: 1734074279891
+entry_point_name: ''
+experiment_id: '378863949864941315'
+lifecycle_stage: active
+run_id: 981a461d53b94cbaa0d82bfac1057a64
+run_name: welcoming-wasp-993
+run_uuid: 981a461d53b94cbaa0d82bfac1057a64
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734074279622
+status: 3
+tags: []
+user_id: Param
