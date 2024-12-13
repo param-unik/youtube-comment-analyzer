@@ -58,8 +58,8 @@ def preprocess_comment(comment):
 def load_model_and_vectorizer(model_name, model_version, vectorizer_path):
     # Set MLflow tracking URI to your server
     mlflow.set_tracking_uri(
-        # "http://ec2-54-196-109-131.compute-1.amazonaws.com:5000/"
-        "http://127.0.0.1:5000/"
+        "http://ec2-18-207-161-151.compute-1.amazonaws.com:8000/"
+        # "http://127.0.0.1:5000/"
     )  # Replace with your MLflow tracking URI
 
     client = MlflowClient()

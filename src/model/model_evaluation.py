@@ -185,7 +185,7 @@ def main():
             save_model_info(run.info.run_id, model_path, "experiment_info.json")
 
             # Log the vectorizer as an artifact
-            mlflow.log_artifact(os.path.join(root_dir, "tfidf_vectorizer.pkl"))
+            mlflow.log_artifact(os.path.join(root_dir, "tfidf_vectorizer.joblib"))
 
             # Evaluate model and get metrics
             report, cm = evaluate_model(model, X_test_tfidf, y_test)
