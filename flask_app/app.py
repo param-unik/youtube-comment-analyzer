@@ -65,6 +65,8 @@ def load_model_and_vectorizer(model_name, model_version, vectorizer_path):
     client = MlflowClient()
     model_uri = f"models:/{model_name}/{model_version}"
     model = mlflow.sklearn.load_model(model_uri)
+    # model = mlflow.pyfunc.load_model(model_uri)
+
     vectorizer = joblib.load(vectorizer_path)  # Load the vectorizer
     return model, vectorizer
 
