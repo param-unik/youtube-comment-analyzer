@@ -1,5 +1,7 @@
 # youtube-comment-analyzer
 
+<!-- mlflow server --backend-store-uri ./mlruns --default-artifact-root s3://youtube-comment-bucket --host 0.0.0.0 --port 8000 -->
+
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
